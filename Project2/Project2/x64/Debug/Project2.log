@@ -1,0 +1,15 @@
+﻿  MyForm.cpp
+D:\Work\ОАиП\2 семестр\lab 8\Project2\Project2\MyForm.cpp(1,1): warning C4005: __CLR_VER: изменение макроопределения
+D:\Work\ОАиП\2 семестр\lab 8\Project2\Project2\pch.cpp : message : см. предыдущее определение "__CLR_VER"
+D:\Work\ОАиП\2 семестр\lab 8\Project2\Project2\MyForm.cpp(1,1): warning C4651: параметр "/D__CLR_VER=40804470" указан для предкомпилированного заголовка, но не для текущей компиляции
+D:\Work\ОАиП\2 семестр\lab 8\Project2\Project2\MyForm.h(187,92): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Work\ОАиП\2 семестр\lab 8\Project2\Project2\MyForm.h(187,63): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Work\ОАиП\2 семестр\lab 8\Project2\Project2\MyForm.h(188,93): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Work\ОАиП\2 семестр\lab 8\Project2\Project2\MyForm.h(188,64): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Work\ОАиП\2 семестр\lab 8\Project2\Project2\MyForm.h(189,93): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Work\ОАиП\2 семестр\lab 8\Project2\Project2\MyForm.h(189,64): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Work\ОАиП\2 семестр\lab 8\Project2\Project2\MyForm.h(190,94): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Work\ОАиП\2 семестр\lab 8\Project2\Project2\MyForm.h(190,64): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Work\ОАиП\2 семестр\lab 8\Project2\Project2\MyForm.cpp(8,33): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  AssemblyInfo.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project2.vcxproj -> D:\Work\ОАиП\2 семестр\lab 8\Project2\x64\Debug\Project2.exe

@@ -1,0 +1,5 @@
+D:\Work\ОАиП\2 семестр\lab 8\Project2\Project2\x64\Debug\Project2.vcxproj.AssemblyReference.cache
+D:\Work\ОАиП\2 семестр\lab 8\Project2\Project2\x64\Debug\Project2.vcxproj.SuggestedBindingRedirects.cache
+D:\Work\ОАиП\2 семестр\lab 8\Project2\Project2\x64\Debug\Project2.Form1.resources
+D:\Work\ОАиП\2 семестр\lab 8\Project2\Project2\x64\Debug\Project2.MyForm.resources
+D:\Work\ОАиП\2 семестр\lab 8\Project2\Project2\x64\Debug\Project2.vcxproj.GenerateResource.cache
